@@ -1,5 +1,5 @@
 function shortcut(s1, s2) {
-  // your code here
+ return s1 && s2 ? s1.charAt(0) + s2.charAt(0) : "";
 }
 
 // Do not change the code below.
